@@ -1,6 +1,6 @@
 # Will Gillis- AI Agent Portfolio
 
-Welcome to my AI agent portfolio! As an Information Security Analyst and Software Engineer with expertise in automation and system integrations, I've developed a comprehensive suite of AI agents designed to streamline business processes, enhance productivity, and solve real-world challenges. Each agent leverages cutting-edge AI technology to deliver practical solutions for modern workflows.  
+Welcome to my AI agent portfolio! As a technology professional with expertise in automation and system integrations, I've developed a comprehensive suite of AI agents designed to streamline business processes, enhance productivity, and solve real-world challenges. Each agent leverages cutting-edge AI technology to deliver practical solutions for modern workflows.  
 
 ---
 
