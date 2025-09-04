@@ -83,7 +83,7 @@ Welcome to my collection of specialized AI agents designed to streamline workflo
 
 ## 📋 About Me
 
-I'm a technology professional with expertise in automation, system optimization, and cybersecurity. With CompTIA certifications in Security+, Network+, and A+, I bring a strong foundation in IT infrastructure and security best practices to AI development.
+I'm a technology professional with expertise in automation, system optimization, and cybersecurity. With CompTIA certifications in CySA+, Security+, Network+, and A+, I bring a strong foundation in IT infrastructure and security best practices to AI development.
 
 My experience includes:
 - **GitHub automation and workflow optimization** - Developed scripts saving 2-4 hours monthly
