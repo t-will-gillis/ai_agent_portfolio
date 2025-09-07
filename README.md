@@ -292,12 +292,4 @@ Ready to streamline your workflows with custom AI agents? I specialize in develo
 - **Security-focused AI solutions**
 - **Integration with existing business systems**
 
-
-[Connect on LinkedIn](https://www.linkedin.com/in/will-gillis)
-
-
-
-
-
-[📬 Contact me](mailto:will@example.com) or [💼 Connect on LinkedIn](https://www.linkedin.com/in/will-gillis)
-
+<a href="https://linkedin.com/in/will-gillis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Will Gillis's LinkedIn" height="30" width="40" /></a>
