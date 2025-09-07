@@ -292,4 +292,5 @@ Ready to streamline your workflows with custom AI agents? I specialize in develo
 - **Security-focused AI solutions**
 - **Integration with existing business systems**
 
+<a href="https://t-will-gillis.github.io/T_Will_Gillis_Portfolio/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Will Gillis's GitHub Portfolio" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/will-gillis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Will Gillis's LinkedIn" height="30" width="40" /></a>
