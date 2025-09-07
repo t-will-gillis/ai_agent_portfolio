@@ -169,7 +169,8 @@ Welcome to my AI agent portfolio! As a technology professional with expertise in
 [🔗 Try it out](https://app.mindstudio.ai/agents/press-release-approval-agent-1eba34fa/run)
 
 ---
-<img width="96" height="96" alt="email-thread-summarizer" src="https://github.com/user-attachments/assets/56f0e318-776c-409d-8fa6-f1a4f8de5697" align="left" />
+<img width="96" height="96" alt="email-thread-summarizer" src="https://github.com/user-attachments/assets/56f0e318-776c-409d-8fa6-f1a4f8de5697" align="left" />  
+
 ### Email Thread Summarizer  
 **Description**: Condenses lengthy email threads into concise summaries and provides draft responses for efficient communication management.
 
