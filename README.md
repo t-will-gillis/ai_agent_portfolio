@@ -2,16 +2,15 @@
 
 Welcome to my AI agent portfolio! As a technology professional with expertise in automation and system integrations, I've developed a comprehensive suite of AI agents designed to streamline business processes, enhance productivity, and solve real-world challenges. Each agent leverages cutting-edge AI technology to deliver practical solutions for modern workflows.  
 
----
+<br>  
 
-## Featured AI Agents
-
+# Featured AI Agents
+ 
 <img width="96" height="96" alt="realign_ai" src="https://github.com/user-attachments/assets/cc7aa97b-006e-4a2f-8718-d1017dae3f0a" align="left" />  
 
 ### **ReAlign AI** 
 
-
-**Description**: A personalized AI career coach that analyzes your professional background and provides tailored job role recommendations to help advance your career.
+&thinsp; **Description**: A personalized AI career coach that analyzes your professional background and provides tailored job role recommendations to help advance your career.
 
 **Use Case**: Perfect for professionals looking to transition careers, recent graduates exploring opportunities, or anyone seeking strategic career guidance based on their unique skills and experience.
 
@@ -22,38 +21,6 @@ Welcome to my AI agent portfolio! As a technology professional with expertise in
 - Skills gap identification
 
 [🔗 Try it out](https://app.mindstudio.ai/agents/realign-ai--a079cb0e)
-
----
-<img width="96" height="96" alt="lead_personalization_agent" src="https://github.com/user-attachments/assets/b208a4ca-05ce-4bde-8f8f-5573d2a92b46" align="left" />
-
-### Lead Personalization Agent
-**Description**: A friendly sales assistant that writes short, personalized welcome emails to new leads, helping businesses create meaningful first impressions.
-
-**Use Case**: Ideal for sales teams, marketing professionals, and business owners who want to automate lead nurturing while maintaining a personal touch in their outreach efforts.
-
-**Key Features:**
-- Automated personalized email generation
-- Lead-specific customization
-- Professional tone optimization
-- Time-saving automation
-
-[🔗 Try it out](https://app.mindstudio.ai/agents/lead-personalization-agent-02dd5b4a)
-
----
-<img width="96" height="96" alt="human_in_the_loop" src="https://github.com/user-attachments/assets/805becd2-d6b8-4a13-903a-daffbceaf6b8" align="left" />
-
-### Human-in-the-Loop Content Creation
-**Description**: Create professional email templates, social media posts, or concise two-sentence summaries about any topic with human oversight and refinement.
-
-**Use Case**: Perfect for content creators, marketers, and professionals who need quick, high-quality content while maintaining creative control and brand consistency.
-
-**Key Features:**
-- Multi-format content generation
-- Human oversight integration
-- Professional template creation
-- Versatile topic coverage
-
-[🔗 Try it out](https://app.mindstudio.ai/agents/human-in-the-loop-content-creation-1a7378be)
 
 ---
 <img width="96" height="96" alt="research_report_generation" src="https://github.com/user-attachments/assets/e7bcfd7f-2e56-4cf1-a532-3a1052afca19" align="left" />
@@ -88,7 +55,22 @@ Welcome to my AI agent portfolio! As a technology professional with expertise in
 [🔗 Try it out](https://app.mindstudio.ai/agents/ask-the-docs-chatbot-77b663a6/run)
 
 ---
+<img width="96" height="96" alt="mini-documentary" src="https://github.com/user-attachments/assets/174c22fd-68cc-4775-8ca9-831ddbb717d7" align="left" />
 
+### Mini-Documentary Creator  
+**Description**: Transforms topics and stories into engaging mini-documentary formats with structured narrative and visual planning.
+
+**Use Case**: Content creators, educators, and marketers can quickly develop documentary-style content for educational or promotional purposes.
+
+**Key Features:**
+- Narrative structure development
+- Visual planning assistance
+- Story arc optimization
+- Multi-media integration
+
+[🔗 Try it out](https://app.mindstudio.ai/agents/minidocumentary-creator-b0bc0327/run)
+
+---
 <img width="96" height="96" alt="slack_channel_summarizer" src="https://github.com/user-attachments/assets/44b8f61c-d293-4569-9c1b-6f47068a7530" align="left" />
 
 ### Slack Channel Daily Summary  
@@ -121,6 +103,23 @@ Welcome to my AI agent portfolio! As a technology professional with expertise in
 [🔗 Try it out](https://app.mindstudio.ai/agents/customer-inquiry-triage-agent-redux-af694dc5/run)
 
 ---
+<img width="96" height="96" alt="human_in_the_loop" src="https://github.com/user-attachments/assets/805becd2-d6b8-4a13-903a-daffbceaf6b8" align="left" />
+
+### Human-in-the-Loop Content Creation  
+
+**Description**: Create professional email templates, social media posts, or concise two-sentence summaries about any topic with human oversight and refinement.
+
+**Use Case**: Perfect for content creators, marketers, and professionals who need quick, high-quality content while maintaining creative control and brand consistency.
+
+**Key Features:**
+- Multi-format content generation
+- Human oversight integration
+- Professional template creation
+- Versatile topic coverage
+
+[🔗 Try it out](https://app.mindstudio.ai/agents/human-in-the-loop-content-creation-1a7378be)  
+
+---  
 <img width="96" height="96" alt="product-page-faq" src="https://github.com/user-attachments/assets/280fabb4-29df-434d-aad2-5961c57291b9" align="left" />
 
 ### Product Page FAQ Generator  
@@ -233,22 +232,6 @@ Welcome to my AI agent portfolio! As a technology professional with expertise in
 [🔗 Try it out](https://app.mindstudio.ai/agents/sales-outreach-assistant-0fb03a73/run)
 
 ---
-<img width="96" height="96" alt="mini-documentary" src="https://github.com/user-attachments/assets/174c22fd-68cc-4775-8ca9-831ddbb717d7" align="left" />
-
-### Mini-Documentary Creator  
-**Description**: Transforms topics and stories into engaging mini-documentary formats with structured narrative and visual planning.
-
-**Use Case**: Content creators, educators, and marketers can quickly develop documentary-style content for educational or promotional purposes.
-
-**Key Features:**
-- Narrative structure development
-- Visual planning assistance
-- Story arc optimization
-- Multi-media integration
-
-[🔗 Try it out](https://app.mindstudio.ai/agents/minidocumentary-creator-b0bc0327/run)
-
----
 <img width="96" height="96" alt="hr-job-description" src="https://github.com/user-attachments/assets/c6020e34-548e-425d-8448-d51ca0782885" align="left" />
 
 ### HR Job Description Generator  
@@ -265,6 +248,23 @@ Welcome to my AI agent portfolio! As a technology professional with expertise in
 [🔗 Try it out](https://app.mindstudio.ai/agents/hr-job-description-generator-28e12990/run)
 
 ---
+<img width="96" height="96" alt="lead_personalization_agent" src="https://github.com/user-attachments/assets/b208a4ca-05ce-4bde-8f8f-5573d2a92b46" align="left" />
+
+### Lead Personalization Agent
+**Description**: A friendly sales assistant that writes short, personalized welcome emails to new leads, helping businesses create meaningful first impressions.
+
+**Use Case**: Ideal for sales teams, marketing professionals, and business owners who want to automate lead nurturing while maintaining a personal touch in their outreach efforts.
+
+**Key Features:**
+- Automated personalized email generation
+- Lead-specific customization
+- Professional tone optimization
+- Time-saving automation
+
+[🔗 Try it out](https://app.mindstudio.ai/agents/lead-personalization-agent-02dd5b4a)  
+
+<br>  
+<br>  
 
 ## About Me
 I'm Will, a technology professional based in San Diego, California with expertise in automation, system optimization, and cybersecurity. With a background in architectural engineering and multiple IT certifications, I bring a unique perspective to AI automation, system integration, and technology optimization.
