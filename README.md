@@ -10,7 +10,7 @@ Welcome to my AI agent portfolio! As a technology professional with expertise in
 
 ### **ReAlign AI** 
 
-&thinsp; **Description**: A personalized AI career coach that analyzes your professional background and provides tailored job role recommendations to help advance your career.
+**Description**: A personalized AI career coach that analyzes your professional background and provides tailored job role recommendations to help advance your career.
 
 **Use Case**: Perfect for professionals looking to transition careers, recent graduates exploring opportunities, or anyone seeking strategic career guidance based on their unique skills and experience.
 
